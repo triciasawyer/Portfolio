@@ -11,14 +11,15 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "Claws and Paws Adoption",
+        "startDate": "2023",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/adoption/home-form.png",
+          "images/portfolio/adoption/pet-stats.png",
+          "images/portfolio/adoption/pet-profiles.png"
         ],
-        "url": "",
+        "url": "https://claws-and-paws.github.io/claws-paws-adoption/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +36,15 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "Salmon Cookies",
+        "startDate": "2023",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/salmon-cookies/home-page.png",
+          "images/portfolio/salmon-cookies/salmonCookiesForm.png",
+          "images/portfolio/salmon-cookies/table.png"
         ],
-        "url": "https://github.com",
+        "url": "https://triciasawyer.github.io/Salmon-cookies/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +57,15 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
+        "title": "Odd Duck",
+        "startDate": "2023",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/odd-duck/odd-duck-home.png",
+          "images/portfolio/odd-duck/results.png",
+          "images/portfolio/odd-duck/chart.png"
         ],
-        "url": "https://github.com",
+        "url": "https://triciasawyer.github.io/Odd-duck/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
