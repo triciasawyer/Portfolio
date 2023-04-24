@@ -13,7 +13,7 @@
       {
         "title": "Claws and Paws Adoption",
         "startDate": "2023",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "This was my first group project. Our problem domain was to create an adoption website for users to specifiy what they're looking for in a pet, in order to find their perfect match efficiently. We implemented a form that takes uer input and stores that in local storage.",
         "images": [
           "images/portfolio/adoption/home-form.png",
           "images/portfolio/adoption/pet-stats.png",
@@ -38,7 +38,7 @@
       {
         "title": "Salmon Cookies",
         "startDate": "2023",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "I was given a Problem Domain about a friend, Pat, who wants to start a business called Salmon Cookies, with mutliple locations. He wanted help creating internal data management around customers and cookie sales. This project was worked on throughout multiple lab projects and uses the programming languages HTML, CSS, and Javascript. This was my first project that implemented Javascript!",
         "images": [
           "images/portfolio/salmon-cookies/home-page.png",
           "images/portfolio/salmon-cookies/salmonCookiesForm.png",
@@ -59,7 +59,7 @@
       {
         "title": "Odd Duck",
         "startDate": "2023",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "This was a multi-lab project that showcases a companies products. I created a webpage that allows the public to vote on what products they are interested in, giving the company the ability to visual view those products and their popularity with a results output that also displays a bar chart.",
         "images": [
           "images/portfolio/odd-duck/odd-duck-home.png",
           "images/portfolio/odd-duck/results.png",
