@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 Welcome to my portfolio! My name is Tricia Sawyer and I am currently a student at DeltaV code school, studying software development, which I will graduate in July of 2023. Before that, I was a college student at Kirkwood Community College where I received my associates of Liberal Arts. Software development is something I chose to do right after I graduated, as I took some classes in tech and grew an interest. Along the way, I have gained experience using programming languages such as React, Javascript, CSS, and HTML and with that, I plan to pursue a career in web development or mobile app creation. Through my educational experiences, I have refined my skills in problem solving, collaboration, and time management. Thank you!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,15 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Claws and Paws Adoption",
+        "startDate": "2023",
+        "description": "This was my first group project. Our problem domain was to create an adoption website for users to specifiy what they're looking for in a pet, in order to find their perfect match efficiently.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/adoption/home-form.png",
+          "images/portfolio/adoption/pet-stats.png",
+          "images/portfolio/adoption/pet-profiles.png"
         ],
-        "url": "",
+        "url": "https://claws-and-paws.github.io/claws-paws-adoption/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +36,15 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Salmon Cookies",
+        "startDate": "2023",
+        "description": "I was given a Problem Domain about a friend, Pat, who wants to start a business called Salmon Cookies, with mutliple locations. He wanted help creating internal data management around customers and cookie sales. This project was worked on throughout multiple lab projects and uses the programming languages HTML, CSS, and Javascript. This was my first project that implemented Javascript!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/salmon-cookies/home-page.png",
+          "images/portfolio/salmon-cookies/salmonCookiesForm.png",
+          "images/portfolio/salmon-cookies/table.png"
         ],
-        "url": "https://github.com",
+        "url": "https://triciasawyer.github.io/Salmon-cookies/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +57,15 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Odd Duck",
+        "startDate": "2023",
+        "description": "This was a multi-lab project that showcases a companies products. I created a webpage that allows the public to vote on what products they are interested in, giving the company the ability to visual view those products and their popularity with a results output that also displays a bar chart.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/odd-duck/odd-duck-home.png",
+          "images/portfolio/odd-duck/results.png",
+          "images/portfolio/odd-duck/chart.png"
         ],
-        "url": "https://github.com",
+        "url": "https://triciasawyer.github.io/Odd-duck/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
