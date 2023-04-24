@@ -13,7 +13,7 @@
       {
         "title": "Claws and Paws Adoption",
         "startDate": "2023",
-        "description": "This was my first group project. Our problem domain was to create an adoption website for users to specifiy what they're looking for in a pet, in order to find their perfect match efficiently. We implemented a form that takes uer input and stores that in local storage.",
+        "description": "This was my first group project. Our problem domain was to create an adoption website for users to specifiy what they're looking for in a pet, in order to find their perfect match efficiently.",
         "images": [
           "images/portfolio/adoption/home-form.png",
           "images/portfolio/adoption/pet-stats.png",
